@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(firstlibevent.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  XFtpserverCMD.cpp
+  XThread.cpp
+  XThreadPool.cpp
+  test_thread_pool.cpp
+  正在生成代码...
+  firstlibevent.vcxproj -> E:\libevent\out\vs2019_32\libevent\src\firstlibevent\Debug\test_thread_pool.exe

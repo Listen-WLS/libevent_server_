@@ -1,0 +1,2 @@
+E:\libevent\out\vs2019_32\libevent\src\firstlibevent\Debug\test_thread_pool.exe
+E:\libevent\out\vs2019_32\libevent\src\firstlibevent\Debug\test_thread_pool.pdb
